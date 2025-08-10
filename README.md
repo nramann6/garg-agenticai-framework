@@ -53,6 +53,7 @@ Unlike traditional forward planning, GARG uses a **deductive-backward** approach
 
 ## 📦 Example Flow
 <img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/b6b12b7f-54dd-456d-a2ea-3e600920bd13" />
+
 ---
 
 ## 🛠️ Future Enhancements
